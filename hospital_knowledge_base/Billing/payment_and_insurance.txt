@@ -1,0 +1,17 @@
+DEPARTMENT: Billing
+DOCUMENT_ID: FIN-POL-003
+TITLE: Patient Billing, Insurance Claims, and Payment Methods
+
+OVERVIEW:
+The Patient Financial Services team oversees patient invoicing, insurance claim submissions, and collection processing.
+
+ACCEPTED PAYMENT METHODS:
+- Cash and Certified Cashier's Checks
+- Major Credit/Debit Cards (Visa, Mastercard, American Express)
+- Direct Electronic Funds Transfer (EFT) / Online Portal
+- Approved Health Insurance / Third-Party Coverage Plans
+
+CLAIM PROCESSING & PATIENT RESPONSIBILITY:
+1. Claims are billed directly to primary and secondary insurance providers upon discharge.
+2. Itemized statements are issued to patients after insurance adjudication, detailing remaining deductibles or copays.
+3. Payment plans are available upon request for balances exceeding $500, payable in up to 12 monthly installments without interest.

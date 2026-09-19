@@ -1,0 +1,11 @@
+DEPARTMENT: Pharmacy
+DOCUMENT_ID: PHARM-POL-012
+TITLE: High-Alert Medication Dispensing & Order Verification
+
+OVERVIEW:
+High-alert medications bear a heightened risk of causing significant patient harm if used in error.
+
+SAFE HANDLING RULES:
+1. Order Verification: All intravenous (IV) chemotherapy and high-concentration electrolyte orders require independent double-checks by two licensed pharmacists prior to dispensing.
+2. Look-Alike / Sound-Alike (LASA) Drugs: LASA medications must be stored in separate bins with Tall Man lettering (e.g., doBUTamine vs. doPAMine).
+3. Delivery Timeline: Routine inpatient medication orders are fulfilled within 45 minutes; urgent/stat orders are dispatched within 15 minutes via the automated pneumatic tube system.

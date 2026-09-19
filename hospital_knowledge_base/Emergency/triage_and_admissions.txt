@@ -1,0 +1,18 @@
+DEPARTMENT: Emergency
+DOCUMENT_ID: ED-SOP-001
+TITLE: Emergency Triage Guidelines & Admission Flow
+
+OVERVIEW:
+The Emergency Department (ED) operates on a 4-level Emergency Severity Index (ESI) triage model to evaluate incoming patients immediately upon arrival.
+
+TRIAGE LEVELS:
+- Level 1 (Resuscitation): Immediate life-saving intervention required (e.g., cardiac arrest, major trauma, severe respiratory distress).
+- Level 2 (Emergent): High-risk situation, confused/lethargic/disoriented, or severe pain/distress.
+- Level 3 (Urgent): Stable vital signs, but requires two or more resources (e.g., lab work + X-rays).
+- Level 4 (Less Urgent): Stable, requires one resource (e.g., simple stitches, single X-ray).
+
+PROCEDURE FOR ADMITTING AN EMERGENCY PATIENT:
+1. Immediate Triage Assessment: Triage nurse assigns ESI level within 5 minutes of arrival.
+2. Direct Bed Placement: Level 1 and Level 2 patients are moved directly to a bed. Level 3 and Level 4 enter the queue if beds are unavailable.
+3. Bedside Registration: Demographic registration is conducted at the bedside to avoid delaying clinical evaluation.
+4. On-Call Consultant Notification: If the attending ER physician determines inpatient care is required, an electronic admission request is dispatched to the relevant specialty consultant.

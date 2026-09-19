@@ -1,0 +1,12 @@
+DEPARTMENT: Nursing
+DOCUMENT_ID: NUR-SOP-005
+TITLE: Bedside Shift Handover Standard Operating Procedure
+
+OVERVIEW:
+Shift handovers must be conducted at the patient's bedside to ensure accuracy, patient engagement, and safety.
+
+HANDOVER METHODOLOGY (SBAR Format):
+- Situation: State patient name, bed number, primary physician, and current diagnosis.
+- Background: Summarize pertinent medical history, recent surgical interventions, and drug allergies.
+- Assessment: Present recent vital signs, pain scores, surgical site assessments, and active IV lines.
+- Recommendation: Highlight pending lab results, planned procedures, and critical tasks for the incoming shift.

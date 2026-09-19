@@ -1,0 +1,12 @@
+DEPARTMENT: Admissions
+DOCUMENT_ID: ADM-SOP-002
+TITLE: Elective Inpatient Admission & Room Allocation
+
+OVERVIEW:
+The Admissions Department coordinates room assignments, insurance verification, and pre-admission testing for all planned inpatient stays.
+
+ADMISSION STEPS:
+1. Pre-Admission Authorization: Obtain prior authorization from the patient's insurance provider at least 48 hours before planned procedures.
+2. Check-In & Identification: Verify patient photo ID and attach an encoded barcode ID wristband to the patient's dominant wrist.
+3. Consent Forms: Ensure signed General Consent for Treatment and Financial Agreement forms are scanned into the Electronic Health Record (EHR).
+4. Room Allocation: Assign rooms based on clinical necessity (e.g., telemetry, private isolation, or standard ward).

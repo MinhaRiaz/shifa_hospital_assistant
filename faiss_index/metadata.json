@@ -1,0 +1,66 @@
+{
+    "collection_name": "hospital_knowledge_base",
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "index_type": "FAISS",
+    "total_documents": 7,
+    "departments": [
+        "Emergency",
+        "Patient_Safety",
+        "Admissions",
+        "Pharmacy",
+        "Nursing",
+        "Billing",
+        "Department"
+    ],
+    "documents": [
+        {
+            "id": "ED-SOP-001",
+            "department": "Emergency",
+            "file_name": "triage_and_admissions.txt",
+            "path": "hospital_knowledge_base/Emergency/triage_and_admissions.txt",
+            "type": "text/plain"
+        },
+        {
+            "id": "PS-POL-104",
+            "department": "Patient_Safety",
+            "file_name": "safety_protocols.txt",
+            "path": "hospital_knowledge_base/Patient_Safety/safety_protocols.txt",
+            "type": "text/plain"
+        },
+        {
+            "id": "ADM-SOP-002",
+            "department": "Admissions",
+            "file_name": "inpatient_admissions_sop.txt",
+            "path": "hospital_knowledge_base/Admissions/inpatient_admissions_sop.txt",
+            "type": "text/plain"
+        },
+        {
+            "id": "PHARM-POL-012",
+            "department": "Pharmacy",
+            "file_name": "medication_dispensing.txt",
+            "path": "hospital_knowledge_base/Pharmacy/medication_dispensing.txt",
+            "type": "text/plain"
+        },
+        {
+            "id": "NUR-SOP-005",
+            "department": "Nursing",
+            "file_name": "nursing_shift_handoff.txt",
+            "path": "hospital_knowledge_base/Nursing/nursing_shift_handoff.txt",
+            "type": "text/plain"
+        },
+        {
+            "id": "FIN-POL-003",
+            "department": "Billing",
+            "file_name": "payment_and_insurance.txt",
+            "path": "hospital_knowledge_base/Billing/payment_and_insurance.txt",
+            "type": "text/plain"
+        },
+        {
+            "id": "DEPT-META-001",
+            "department": "Department",
+            "file_name": "hospital_knowledge_base_departments.csv",
+            "path": "hospital_knowledge_base/Department/hospital_knowledge_base_departments.csv",
+            "type": "text/csv"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+DEPARTMENT: Patient Safety
+DOCUMENT_ID: PS-POL-104
+TITLE: Infection Control & Hand Hygiene Protocols
+
+OVERVIEW:
+Maintaining strict hygiene standards is vital to preventing Healthcare-Associated Infections (HAIs) across all clinical wards.
+
+CORE PROTOCOLS:
+1. Five Moments for Hand Hygiene:
+   - Before touching a patient
+   - Before clean/aseptic procedures
+   - After body fluid exposure risk
+   - After touching a patient
+   - After touching patient surroundings
+
+2. Personal Protective Equipment (PPE):
+   - Gloves and masks must be worn during contact with mucous membranes, non-intact skin, or bodily fluids.
+   - N95 respirators are mandatory for airborne precaution isolation rooms.
+
+3. Incident Reporting:
+   - Any near-miss, medication error, or patient fall must be logged into the Safety Incident Portal within 12 hours of the occurrence.
