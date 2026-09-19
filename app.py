@@ -35,7 +35,7 @@ def load_vectorstore():
 # 2. Get API Key from Secrets
 groq_api_key = st.secrets.get("GROQ_API_KEY", os.getenv("GROQ_API_KEY", ""))
 
-st.title("🏥 Enterprise Knowledge Assistant")
+st.title("🏥 Hospital Knowledge Assistant")
 st.caption("Ask questions about hospital policies, procedures, and department guidelines.")
 
 if not groq_api_key:
